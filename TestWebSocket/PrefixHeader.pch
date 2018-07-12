@@ -10,7 +10,6 @@
 #define PrefixHeader_pch
 
 #import "SRWebSocket.h"
-#import "MBProgressHUD.h"
 
 
 // Include any system framework and library headers here that should be included in all compilation units.
